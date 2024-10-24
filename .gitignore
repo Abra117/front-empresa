@@ -65,9 +65,8 @@ typings/
 # next.js build output
 .next
 
-# nuxt.js build output
-.nuxt
-
+.nuxt/*
+!.nuxt/dist
 
 
 # Serverless directories

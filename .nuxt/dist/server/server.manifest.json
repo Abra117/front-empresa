@@ -1,0 +1,19 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/ui-login-form.js": "components/ui-login-form.js",
+    "components/ui-signup-form.js": "components/ui-signup-form.js",
+    "pages/dashboard/index.js": "pages/dashboard/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/signup/index.js": "pages/signup/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/ui-login-form.js": "components/ui-login-form.js.map",
+    "components/ui-signup-form.js": "components/ui-signup-form.js.map",
+    "pages/dashboard/index.js": "pages/dashboard/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/signup/index.js": "pages/signup/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
