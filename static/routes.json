@@ -1,6 +1,6 @@
 {
-    "routes":[],
-    "platformErrorOverrides":[
+    "routes": [],
+    "platformErrorOverrides": [
         {
             "errorType":"NotFound",
             "serve":"/200.html",
